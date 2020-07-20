@@ -2,7 +2,7 @@
 AIP: 0
 Title: Test 1
 Author: Hochul Seok (@ultrafellen)
-Status: Draft
+Status: test!!
 Category: Agora
 Created: 2020-06-15
 ---
